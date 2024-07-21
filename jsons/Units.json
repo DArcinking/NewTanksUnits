@@ -8,7 +8,7 @@
     "rangedStrength": 0, // Танк не має дальнього бою, тому залишаємо 0
     "range": 0, // Танк не має дальнього бою, тому залишаємо 0
     "cost": 180,
-    "requiredTech": "Early Armor",
+    "requiredTech": "Dynamite",
     "requiredResource": null, // Якщо потрібні ресурси, вкажіть тут, інакше залиште null
     "promotions": [], // Список промоцій, якщо є
     "attackSound": "tank" // Змінюйте на відповідний звук, якщо є
