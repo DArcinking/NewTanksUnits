@@ -1,17 +1,16 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+  {
+    "name": "T-12 Medium Tank",
+    "unitType": "Tank",
+    "uniqueTo": "Russia",
+    "movement": 3,
+    "strength": 35,
+    "rangedStrength": 0, // Танк не має дальнього бою, тому залишаємо 0
+    "range": 0, // Танк не має дальнього бою, тому залишаємо 0
+    "cost": 180,
+    "requiredTech": "Early Armor",
+    "requiredResource": null, // Якщо потрібні ресурси, вкажіть тут, інакше залиште null
+    "promotions": [], // Список промоцій, якщо є
+    "attackSound": "tank" // Змінюйте на відповідний звук, якщо є
+  }
 ]
