@@ -1,7 +1,7 @@
 [
   {
     "name": "T-12 Medium Tank",
-    "unitType": "Armoured",
+    "unitType": "Armored",
     "uniqueTo": "Russia",
     "movement": 3,
     "strength": 35,
