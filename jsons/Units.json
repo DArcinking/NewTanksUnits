@@ -13,6 +13,9 @@
     "requiredResource": null,
     "promotions": [],
     "attackSound": "tank",
-    "icon": "Images/UnitIcons/T-12_Medium_Tank.png" // Додаємо шлях до іконки
+    "icon": "UnitAtlas", // посилання на атлас для іконки
+    "iconRegion": "T-12_Medium_Tank_Icon", // ім'я іконки в атласі
+    "texture": "UnitAtlas", // посилання на атлас для текстури
+    "textureRegion": "T-12_Medium_Tank_Texture" // ім'я текстури в атласі
   }
 ]
