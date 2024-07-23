@@ -6,12 +6,13 @@
     "replaces": "Landship",
     "movement": 3,
     "strength": 35,
-    "rangedStrength": 0, // Танк не має дальнього бою, тому залишаємо 0
-    "range": 0, // Танк не має дальнього бою, тому залишаємо 0
+    "rangedStrength": 0,
+    "range": 0,
     "cost": 180,
     "requiredTech": "Dynamite",
-    "requiredResource": null, // Якщо потрібні ресурси, вкажіть тут, інакше залиште null
-    "promotions": [], // Список промоцій, якщо є
-    "attackSound": "tank" // Змінюйте на відповідний звук, якщо є
+    "requiredResource": null,
+    "promotions": [],
+    "attackSound": "tank",
+    "icon": "Images/UnitIcons/T-12_Medium_Tank.png" // Додаємо шлях до іконки
   }
 ]
