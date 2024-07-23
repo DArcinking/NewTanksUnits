@@ -1,0 +1,55 @@
+{
+	"frames": {
+		"T-12_Medium_Tank_Icon.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 200,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 200,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 200,
+				"h": 200
+			}
+		},
+		"T-12_Medium_Tank_Texture.png": {
+			"frame": {
+				"x": 1,
+				"y": 203,
+				"w": 1629,
+				"h": 1079
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1629,
+				"h": 1079
+			},
+			"sourceSize": {
+				"w": 1629,
+				"h": 1079
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1631,
+			"h": 1283
+		},
+		"scale": "1"
+	}
+}
