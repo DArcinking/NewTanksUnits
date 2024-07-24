@@ -1,0 +1,48 @@
+{
+	"textures": [
+		{
+			"image": "game.png",
+			"size": {
+				"w": 1829,
+				"h": 1079
+			},
+			"sprites": [
+				{
+					"filename": "T-12_Medium_Tank_Texture.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 1629,
+						"h": 1079
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "T-12_Medium_Tank_Icon.png",
+					"region": {
+						"x": 1629,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7",
+		"format": "RGBA8888",
+	}
+}
