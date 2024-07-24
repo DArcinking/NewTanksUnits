@@ -3,7 +3,6 @@
     "name": "T-12 Medium Tank",
     "unitType": "Armored",
     "uniqueTo": "Russia",
-    "replaces": "Landship",
     "movement": 3,
     "strength": 35,
     "rangedStrength": 0,
